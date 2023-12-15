@@ -1,5 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno0OHZqcDUyMmdpZDR5dzd3Nmxub2E5bGtyYnZkMGh4eDNiamcxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)]
-
+[![MasterHead](https://media.licdn.com/dms/image/D5622AQGEl3xtCUn4nQ/feedshare-shrink_2048_1536/0/1701768485209?e=1705536000&v=beta&t=vDppFIr69FyiWpGSNKMQVzxFpJ-SPW2-PRiEyroQzIc)]
 <h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
